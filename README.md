@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rootdrew27
-- 👀 I’m interested in Python and C/C++
+- 👀 I’m interested in Python (Django and ML) as well as C/C++/C#
 - 🌱 I’m currently in school for CS/Math
 - 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me root.drew27@gmail.com
