@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rootdrew27
-- 👀 I’m interested in Python (Django and ML) as well as C/C++/C#
-- 🌱 I’m currently in school for CS/Math
-- 💞️ I’m looking to collaborate on nothing as of now
+- 👀 I am currently doing an internship using the .NET Framework (with C#). I am also reading "Deep Learning with Python" by François Chollet
+- 🌱 I'm double majoring in CS and Math
+- 💞️ I’m looking to design a website template using Django. The template would be for a simple resume website that would only require python coding to make one's own.
 - 📫 How to reach me root.drew27@gmail.com
 
 <!---
