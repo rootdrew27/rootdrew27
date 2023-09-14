@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rootdrew27
-- 👀 I am currently doing an internship using the .NET Framework (with C#). I am also reading "Deep Learning with Python" by François Chollet
+- 👀 I am currently in University and doing an internship with Midwest Manufacturing. Also, I am reading "Deep Learning with Python" by François Chollet and "Mathematics for Machine Learning"
 - 🌱 I'm double majoring in CS and Math
-- 💞️ I’m looking to design a website template using Django. The template would be for a simple resume website that would only require the user to enter data into a config file.
+- 💞️ I’m looking to contribute to device drivers as well as machine learning projects
 - 📫 How to reach me root.drew27@gmail.com
 
 <!---
